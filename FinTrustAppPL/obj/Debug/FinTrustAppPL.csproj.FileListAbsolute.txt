@@ -1,0 +1,9 @@
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\bin\Debug\FinTrustAppPL.exe.config
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\bin\Debug\FinTrustAppPL.exe
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\bin\Debug\FinTrustAppPL.pdb
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\obj\Debug\FinTrustAppPL.csprojAssemblyReference.cache
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\obj\Debug\FinTrustAppPL.Properties.Resources.resources
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\obj\Debug\FinTrustAppPL.csproj.GenerateResource.cache
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\obj\Debug\FinTrustAppPL.csproj.CoreCompileInputs.cache
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\obj\Debug\FinTrustAppPL.exe
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppPL\obj\Debug\FinTrustAppPL.pdb

@@ -1,0 +1,5 @@
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppBLL\bin\Debug\FinTrustAppBLL.dll
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppBLL\bin\Debug\FinTrustAppBLL.pdb
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppBLL\obj\Debug\FinTrustAppBLL.csproj.CoreCompileInputs.cache
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppBLL\obj\Debug\FinTrustAppBLL.dll
+C:\Users\1028259\source\repos\FinTrustApp\FinTrustAppSolution\FinTrustAppBLL\obj\Debug\FinTrustAppBLL.pdb
